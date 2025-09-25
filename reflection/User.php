@@ -1,8 +1,5 @@
 <?php
 
-use ReflectionClass;
-use ReflectionMethod;
-
 class User {
     public $id;
     private $password;
